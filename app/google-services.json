@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208553162484",
+    "project_id": "splash-screen-6c94f",
+    "storage_bucket": "splash-screen-6c94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208553162484:android:c18472afd88e099013d0a1",
+        "android_client_info": {
+          "package_name": "com.example.splash_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGM1co3FYN0tFne4Y13BXj767CfJfSBd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
